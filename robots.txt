@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uaetrustcore.uaetrustcore.workers.dev/sitemap.xml
